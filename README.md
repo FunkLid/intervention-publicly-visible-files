@@ -12,3 +12,5 @@ Be sure to clear with the project lead that your content may be placed in a publ
 
 When embedding, please use the `raw` option under your content.
 
+For jpg, png etc. the raw option may not be available. Use the following url in your links: ```https://raw.githubusercontent.com/FunkLid/intervention-publicly-visible-files/master/<mappenavn>/<filnavn>```
+
