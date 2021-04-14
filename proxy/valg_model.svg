@@ -7,13 +7,13 @@
    xmlns="http://www.w3.org/2000/svg"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   width="549.69592mm"
-   height="282.28238mm"
-   viewBox="0 0 549.69593 282.28238"
+   width="473.29001mm"
+   height="190.77242mm"
+   viewBox="0 0 473.29001 190.77242"
    version="1.1"
    id="svg8"
    inkscape:version="1.0.2 (e86c870879, 2021-01-15)"
-   sodipodi:docname="valg_samlet_liste_pile_2.svg"
+   sodipodi:docname="valg_model.svg"
    inkscape:export-filename="/home/tobias/documents/FunkLid/proxy/modeller/valg_samlet_liste_pile_2.png"
    inkscape:export-xdpi="127.3"
    inkscape:export-ydpi="127.3">
@@ -28,8 +28,8 @@
     <rect
        x="3.1302958"
        y="31.416943"
-       width="39.61229"
-       height="43.982523"
+       width="39.612289"
+       height="43.982525"
        id="rect835-6" />
     <rect
        x="3.1302958"
@@ -201,17 +201,17 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.37794155"
-     inkscape:cx="504.32332"
-     inkscape:cy="237.45203"
+     inkscape:zoom="0.3357929"
+     inkscape:cx="981.20067"
+     inkscape:cy="-62.940891"
      inkscape:document-units="mm"
-     inkscape:current-layer="layer1"
+     inkscape:current-layer="layer2"
      inkscape:document-rotation="0"
      showgrid="false"
-     inkscape:window-width="2880"
-     inkscape:window-height="1765"
-     inkscape:window-x="0"
-     inkscape:window-y="35"
+     inkscape:window-width="1404"
+     inkscape:window-height="1717"
+     inkscape:window-x="1450"
+     inkscape:window-y="57"
      inkscape:window-maximized="1"
      showguides="false" />
   <metadata
@@ -231,43 +231,12 @@
      id="layer2"
      inkscape:label="baggrund"
      style="display:inline"
-     transform="translate(72.076622,27.845133)">
-    <g
-       stroke-linecap="round"
-       stroke-width="0.127"
-       stroke="#000000"
-       fill="none"
-       stroke-linejoin="round"
-       id="g6-5-5-6"
-       transform="matrix(2.3043479,0,0,2.3158598,295.32098,70.459399)"
-       style="display:inline;stroke:#f3f3f3;stroke-width:0.865765;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1">
-      <g
-         id="g1259-9"
-         style="stroke:#f3f3f3;stroke-opacity:1">
-        <path
-           d="m 93.6332,179.01355 h 38.48194"
-           id="path4-8-7-0-2"
-           style="display:inline;fill:none;stroke:#f3f3f3;stroke-width:2.00001;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-           transform="matrix(0.43396225,0,0,0.43180507,-56.832985,-64.798957)" />
-        <path
-           d="M 23.5,12.5 H 0.5"
-           id="path4-6-4-2"
-           style="stroke:#f3f3f3;stroke-width:0.865765;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
-      </g>
-    </g>
-    <rect
-       style="fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke-width:1.4;stroke-linecap:square"
-       id="rect1743"
-       width="549.69592"
-       height="282.28238"
-       x="-72.076622"
-       y="-27.845133" />
-  </g>
+     transform="translate(37.041686)" />
   <g
      inkscape:label="Layer 1"
      inkscape:groupmode="layer"
      id="layer1"
-     transform="translate(35.066852,-212.64565)">
+     transform="translate(0.03191607,-240.49078)">
     <circle
        style="fill:#75d29c;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.529167;stroke-linecap:square"
        id="path929-4"
