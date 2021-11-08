@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<svg viewBox="767.528 199.458 169.099 176.294" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <clipPath id="clip-Balance">
+      <rect width="1166" height="1094"/>
+    </clipPath>
+  </defs>
+  <g id="Balance" clip-path="url(#clip-Balance)" transform="matrix(1, 0, 0, 1, 348.576416, -8.896197)"/>
+  <path id="Path_485" data-name="Path 485" d="M 857.802 204.642 L 857.802 204.642 C 899.538 204.642 933.372 242.48 933.372 289.155 C 933.372 335.828 920.523 358.626 848.042 373.667 L 848.042 373.667 C 806.307 373.667 772.47 289.155 772.47 289.155 C 772.47 289.155 816.066 204.642 857.802 204.642 Z" style="fill: rgb(39, 48, 62);"/>
+  <g transform="matrix(0.920831, 0, 0, 0.90746, 67.972412, 27.023054)" style="">
+    <g id="Group_1402" data-name="Group 1402" transform="matrix(1.615831, 0, 0, 1.524257, -1250.827637, -719.195068)" style="">
+      <path id="Path_1864" data-name="Path 1864" d="M 1279.88 639.707 L 1280.291 681.652 L 1332.611 681.571 L 1332.879 622.174 L 1332.839 619.92 L 1279.814 619.523 L 1279.881 622.174 L 1279.88 639.707 Z M 1330.593 679.291 L 1282.167 679.291 L 1282.167 661.813 L 1330.59 661.813 L 1330.593 679.291 Z M 1330.593 659.527 L 1282.167 659.527 L 1282.167 641.993 L 1330.59 641.993 L 1330.593 659.527 Z M 1330.593 639.707 L 1282.167 639.707 L 1282.167 622.174 L 1330.59 622.357 L 1330.593 639.707 Z" fill="#fff"/>
+    </g>
+    <text style="fill: rgb(255, 255, 255); font-family: Arial, sans-serif; font-size: 4.9px; font-weight: 700; white-space: pre;" transform="matrix(-0.006005, -6.128704, 6.096921, -0.005317, -517.485596, 5975.498047)" x="933.847" y="228.358">[</text>
+    <text style="fill: rgb(255, 255, 255); font-family: Arial, sans-serif; font-size: 4.9px; font-weight: 700; white-space: pre;" transform="matrix(-0.006005, -6.128704, 6.096921, -0.005317, -517.42804, 6003.421875)" x="933.847" y="228.358">[</text>
+    <text style="fill: rgb(255, 255, 255); font-family: Arial, sans-serif; font-size: 4.9px; font-weight: 700; white-space: pre;" transform="matrix(-0.006005, -6.128704, 6.096921, -0.005317, -518.091797, 6032.893555)" x="933.847" y="228.358">[</text>
+  </g>
+  <text style="fill: rgb(255, 255, 255); font-family: Arial, sans-serif; font-size: 21px; white-space: pre;" x="812.089" y="344.39">Kartoteket</text>
+</svg>
