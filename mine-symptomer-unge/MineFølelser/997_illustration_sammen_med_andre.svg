@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="325.632" height="145.265" viewBox="0 0 325.632 145.265">
+  <g id="Group_1193" data-name="Group 1193" transform="translate(-515.844 -1263.281)">
+    <g id="Group_1182" data-name="Group 1182" transform="translate(470.43 1209.907)">
+      <path id="Nuance_A4_5a" data-name="Nuance A4 5a" d="M72.632,0A72.632,72.632,0,1,1,0,72.632,72.632,72.632,0,0,1,72.632,0Z" transform="translate(45.415 53.374)" fill="#7ccad8"/>
+      <path id="Path_200" data-name="Path 200" d="M113.889,95.482c.078,7.9,25.536,7.656,25.459-.247" transform="translate(21.474 13.128)" fill="#7ccad8" stroke="#323f51" stroke-linecap="round" stroke-linejoin="round" stroke-width="3"/>
+      <path id="Path_201" data-name="Path 201" d="M82.724,95.482c.078,7.9,25.535,7.656,25.458-.247" transform="translate(11.7 13.128)" fill="#7ccad8" stroke="#323f51" stroke-linecap="round" stroke-linejoin="round" stroke-width="3"/>
+      <path id="Path_202" data-name="Path 202" d="M87.227,123.388c9.652,7.608,20.375,5.869,29.159-.282" transform="translate(13.112 21.868)" fill="#7ccad8" stroke="#323f51" stroke-linecap="round" stroke-linejoin="round" stroke-width="3"/>
+    </g>
+    <g id="Group_1184" data-name="Group 1184" transform="translate(653.063 1209.907)">
+      <path id="Nuance_A4_5a-2" data-name="Nuance A4 5a" d="M71.5,0C32.012,0,0,32.519,0,72.632s32.012,72.632,71.5,72.632S143,112.746,143,72.632,110.988,0,71.5,0Z" transform="translate(45.415 53.374)" fill="#029cb2"/>
+      <path id="Path_200-2" data-name="Path 200" d="M138.951,95.482c-.076,7.9-25.138,7.656-25.062-.247" transform="translate(-39.082 13.128)" fill="#029cb2" stroke="#323f51" stroke-linecap="round" stroke-linejoin="round" stroke-width="3"/>
+      <path id="Path_201-2" data-name="Path 201" d="M107.785,95.482c-.076,7.9-25.137,7.656-25.061-.247" transform="translate(32.384 13.128)" fill="#029cb2" stroke="#323f51" stroke-linecap="round" stroke-linejoin="round" stroke-width="3"/>
+      <path id="Path_202-2" data-name="Path 202" d="M115.932,123.388c-9.5,7.608-20.057,5.869-28.7-.282" transform="translate(18.414 21.868)" fill="#029cb2" stroke="#323f51" stroke-linecap="round" stroke-linejoin="round" stroke-width="3"/>
+    </g>
+  </g>
+</svg>
