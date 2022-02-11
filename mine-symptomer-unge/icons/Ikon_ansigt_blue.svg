@@ -1,8 +1,1 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="150.265" height="150.265" viewBox="0 0 150.265 150.265">
-  <g id="Group_367" data-name="Group 367" transform="translate(-42.915 -50.874)">
-    <path id="Nuance_A4_5a" data-name="Nuance A4 5a" d="M72.632,0A72.632,72.632,0,1,1,0,72.632,72.632,72.632,0,0,1,72.632,0Z" transform="translate(45.415 53.374)" fill="none" stroke="#7ec8d6" stroke-width="5"/>
-    <path id="Path_200" data-name="Path 200" d="M113.889,95.482c.078,7.9,25.536,7.656,25.459-.247" transform="translate(233.772 209.649) rotate(180)" fill="none" stroke="#7ec8d6" stroke-linecap="round" stroke-linejoin="round" stroke-width="3"/>
-    <path id="Path_201" data-name="Path 201" d="M82.724,95.482c.078,7.9,25.535,7.656,25.458-.247" transform="translate(243.546 209.649) rotate(180)" fill="none" stroke="#7ec8d6" stroke-linecap="round" stroke-linejoin="round" stroke-width="3"/>
-    <path id="Path_202" data-name="Path 202" d="M87.227,123.388c9.652,7.608,20.375,5.869,29.159-.282" transform="translate(13.112 21.868)" fill="none" stroke="#7ec8d6" stroke-linecap="round" stroke-linejoin="round" stroke-width="3"/>
-  </g>
-</svg>
+<svg width="150.265" height="150.265" xmlns="http://www.w3.org/2000/svg"><g fill="none" stroke="#7ec8d6" data-name="Group 367"><path stroke-width="5" d="M75.132 2.5A72.632 72.632 0 1 1 2.5 75.132 72.632 72.632 0 0 1 75.132 2.5Z" data-name="Nuance A4 5a"/><path stroke-linecap="round" stroke-linejoin="round" stroke-width="3" d="M76.968 63.293c-.078-7.9-25.536-7.656-25.459.247" data-name="Path 200"/><path stroke-linecap="round" stroke-linejoin="round" stroke-width="3" d="M117.907 63.293c-.078-7.9-25.535-7.656-25.458.247" data-name="Path 201"/><path stroke-linecap="round" stroke-linejoin="round" stroke-width="3" d="M57.424 94.382c9.652 7.608 20.375 5.869 29.159-.282" data-name="Path 202"/></g></svg>
