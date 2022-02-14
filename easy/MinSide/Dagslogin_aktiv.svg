@@ -1,11 +1,1 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="94.033" height="98.618" viewBox="0 0 94.033 98.618">
-  <g id="Group_219" data-name="Group 219" transform="translate(0 0)">
-    <path id="Path_442" data-name="Path 442" d="M19.744,0h0C33.366,0,44.408,10.211,44.408,22.807S40.214,41.554,16.559,45.613h0C2.937,45.613,0,18.724,0,18.724S6.123,0,19.744,0Z" transform="translate(39.971 17.392) rotate(31)" fill="#e79e17"/>
-    <rect id="Rectangle_157" data-name="Rectangle 157" width="26.82" height="4.126" rx="2.063" transform="matrix(0.799, 0.602, -0.602, 0.799, 6.659, 11.958)" fill="#e79e17"/>
-    <rect id="Rectangle_160" data-name="Rectangle 160" width="30.258" height="5.501" rx="2.751" transform="matrix(0.799, 0.602, -0.602, 0.799, 67.868, 63.528)" fill="#e79e17"/>
-    <rect id="Rectangle_161" data-name="Rectangle 161" width="24.069" height="4.126" rx="2.063" transform="matrix(0.259, 0.966, -0.966, 0.259, 55.077, 74.301)" fill="#e79e17"/>
-    <rect id="Rectangle_162" data-name="Rectangle 162" width="24.069" height="4.126" rx="2.063" transform="matrix(-0.225, 0.974, -0.974, -0.225, 64.355, 0.928)" fill="#e79e17"/>
-    <rect id="Rectangle_158" data-name="Rectangle 158" width="30.258" height="4.126" rx="2.063" transform="matrix(0.819, -0.574, 0.574, 0.819, 0, 82.715)" fill="#e79e17"/>
-    <rect id="Rectangle_159" data-name="Rectangle 159" width="29.57" height="4.126" rx="2.063" transform="matrix(0.819, -0.574, 0.574, 0.819, 67.444, 34.406)" fill="#e79e17"/>
-  </g>
-</svg>
+<svg width="94.033" height="98.618" xmlns="http://www.w3.org/2000/svg"><g fill="#e79e17" data-name="Group 219"><path d="M56.895 27.56c11.676 7.017 15.882 21.456 9.395 32.253s-13.25 13.91-35.618 5.205c-11.676-7.015-.345-31.576-.345-31.576S45.22 20.546 56.895 27.56Z" data-name="Path 442"/><rect width="26.82" height="4.126" data-name="Rectangle 157" rx="2.063" transform="rotate(37 -14.536 15.925)"/><rect width="30.258" height="5.501" data-name="Rectangle 160" rx="2.751" transform="rotate(37 -60.985 133.14)"/><rect width="24.069" height="4.126" data-name="Rectangle 161" rx="2.063" transform="rotate(74.99 -20.89 73.04)"/><rect width="24.069" height="4.126" data-name="Rectangle 162" rx="2.063" transform="scale(-1) rotate(-77 -32.772 40.008)"/><rect width="30.258" height="4.126" data-name="Rectangle 158" rx="2.063" transform="rotate(-35.02 131.07 41.33)"/><rect width="29.57" height="4.126" data-name="Rectangle 159" rx="2.063" transform="rotate(-35.02 88.22 -89.68)"/></g></svg>

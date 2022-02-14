@@ -1,13 +1,1 @@
-<?xml version="1.0" encoding="utf-8"?>
-<svg viewBox="2058.334 656.165 177.797 174.603" xmlns="http://www.w3.org/2000/svg">
-  <defs>
-    <clipPath id="clip-Balance">
-      <rect width="1166" height="1094"/>
-    </clipPath>
-  </defs>
-  <g id="Balance" clip-path="url(#clip-Balance)" transform="matrix(1, 0, 0, 1, 1645.394217, 437.527966)"/>
-  <path id="Path_485" data-name="Path 485" d="M 2150.077 661.317 L 2150.077 661.317 C 2192.406 661.317 2226.72 698.271 2226.72 743.857 C 2226.72 789.44 2213.688 811.706 2140.178 826.396 L 2140.178 826.396 C 2097.849 826.396 2063.531 743.857 2063.531 743.857 C 2063.531 743.857 2107.747 661.317 2150.077 661.317 Z" style="fill: rgb(39, 48, 62);"/>
-  <g id="Group_1402" data-name="Group 1402" transform="matrix(1, 0, 0, 1, 846.620231, 59.381413)"/>
-  <text style="fill: rgb(255, 255, 255); font-family: Arial, sans-serif; font-size: 21px; white-space: pre;" x="841.922" y="421.514" transform="matrix(1, 0, 0, 1, 1259.811401, 341.723419)">Hjælp til <tspan x="841.9219970703125" dy="1em">​</tspan>programmet</text>
-  <text id="_" data-name="?" fill="#fff" font-size="67" font-family="Lato-Black, Lato" font-weight="800" letter-spacing="0.1em" style="white-space: pre;" x="853.937" y="356.759" transform="matrix(1.369788, 0, 0, 1.270696, 956.447632, 279.553345)"><tspan x="853.937" y="356.759" style="font-size: 67px; word-spacing: 0px; letter-spacing: 6.7px;">?</tspan></text>
-</svg>
+<svg viewBox="2058.334 656.165 177.797 174.603" xmlns="http://www.w3.org/2000/svg"><defs><clipPath id="OmProgPic_svg__a"><path d="M0 0h1166v1094H0z"/></clipPath></defs><path d="M2150.077 661.317c42.329 0 76.643 36.954 76.643 82.54 0 45.583-13.032 67.849-86.542 82.539-42.329 0-76.647-82.539-76.647-82.539s44.216-82.54 86.546-82.54Z" data-name="Path 485" style="fill:#27303e"/><text x="841.922" y="421.514" style="fill:#fff;font-family:Arial,sans-serif;font-size:21px;white-space:pre" transform="translate(1259.811 341.723)">Hjælp til <tspan x="841.922" dy="1em">​</tspan>programmet</text><text x="853.937" y="356.759" fill="#fff" data-name="?" font-family="Lato-Black, Lato" font-size="67" font-weight="800" letter-spacing=".1em" style="white-space:pre" transform="matrix(1.36979 0 0 1.2707 956.448 279.553)"><tspan x="853.937" y="356.759" style="font-size:67px;word-spacing:0;letter-spacing:6.7px">?</tspan></text></svg>

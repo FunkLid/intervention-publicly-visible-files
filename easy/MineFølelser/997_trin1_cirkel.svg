@@ -1,6 +1,1 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="226.5" height="226.5" viewBox="0 0 226.5 226.5">
-  <g id="Group_1180" data-name="Group 1180" transform="translate(-1644 -2150)">
-    <path id="Path_1718" data-name="Path 1718" d="M113.25,0A113.25,113.25,0,1,1,0,113.25,113.25,113.25,0,0,1,113.25,0Z" transform="translate(1644 2150)" fill="#009cb2"/>
-    <text id="PLANCHE_D_AMBIANCE" data-name="PLANCHE D’AMBIANCE" transform="translate(1727 2301.5)" fill="#fff" font-size="103" font-family="Lato-Black, Lato" font-weight="800" letter-spacing="0.2em"><tspan x="0" y="0">1</tspan></text>
-  </g>
-</svg>
+<svg width="226.5" height="226.5" xmlns="http://www.w3.org/2000/svg"><g data-name="Group 1180"><path fill="#009cb2" d="M113.25 0A113.25 113.25 0 1 1 0 113.25 113.25 113.25 0 0 1 113.25 0Z" data-name="Path 1718"/><text fill="#fff" data-name="PLANCHE D’AMBIANCE" font-family="Lato-Black, Lato" font-size="103" font-weight="800" letter-spacing=".2em" transform="translate(83 151.5)"><tspan x="0" y="0">1</tspan></text></g></svg>
