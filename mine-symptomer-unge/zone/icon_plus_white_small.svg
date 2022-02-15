@@ -1,1 +1,11 @@
-<svg width="80.413" height="80.413" xmlns="http://www.w3.org/2000/svg"><g data-name="Group 394" transform="translate(0 -.001)"><circle cx="40.207" cy="40.207" r="40.207" fill="#fff" data-name="Nuance A4 5d" transform="translate(0 .001)"/><g data-name="Group 90"><g fill="#323f51" data-name="Group 89" transform="translate(24.597 24.281)"><rect width="31.816" height="5.7" data-name="Rectangle 50" rx="2.85" transform="translate(0 13.058)"/><rect width="31.816" height="5.7" data-name="Rectangle 51" rx="2.85" transform="rotate(90 9.379 9.379)"/></g></g></g></svg>
+<svg xmlns="http://www.w3.org/2000/svg" width="80.413" height="80.413" viewBox="0 0 80.413 80.413">
+  <g id="Group_394" data-name="Group 394" transform="translate(0 -0.001)">
+    <ellipse id="Nuance_A4_5d" data-name="Nuance A4 5d" cx="40.207" cy="40.207" rx="40.207" ry="40.207" transform="translate(0 0.001)" fill="#fff"/>
+    <g id="Group_90" data-name="Group 90" transform="translate(24.597 24.281)">
+      <g id="Group_89" data-name="Group 89" transform="translate(0 0)">
+        <rect id="Rectangle_50" data-name="Rectangle 50" width="31.816" height="5.7" rx="2.85" transform="translate(0 13.058)" fill="#323f51"/>
+        <rect id="Rectangle_51" data-name="Rectangle 51" width="31.816" height="5.7" rx="2.85" transform="translate(18.758 0) rotate(90)" fill="#323f51"/>
+      </g>
+    </g>
+  </g>
+</svg>

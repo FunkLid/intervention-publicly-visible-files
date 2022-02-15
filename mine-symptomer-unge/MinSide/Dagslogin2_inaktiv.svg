@@ -1,1 +1,11 @@
-<svg width="110.476" height="111.688" xmlns="http://www.w3.org/2000/svg"><g fill="rgba(145,145,145,0.27)" data-name="Group 216"><path d="M63.92 79.948c-13.217 3.295-26.401-3.941-29.448-16.163s-.466-19.205 21.504-28.866c13.217-3.296 22.572 22.084 22.572 22.084s-1.411 19.65-14.628 22.945Z" data-name="Path 450"/><rect width="26.82" height="4.126" data-name="Rectangle 177" rx="2.063" transform="rotate(172 53.299 31.592)"/><rect width="30.258" height="5.501" data-name="Rectangle 172" rx="2.751" transform="rotate(172 13.187 32.211)"/><rect width="24.069" height="4.126" data-name="Rectangle 173" rx="2.063" transform="rotate(-150 22.189 18.497)"/><rect width="24.069" height="4.126" data-name="Rectangle 178" rx="2.063" transform="rotate(-122 67.575 30.556)"/><rect width="30.258" height="4.126" data-name="Rectangle 176" rx="2.063" transform="rotate(100 32.275 27.693)"/><rect width="29.57" height="4.126" data-name="Rectangle 179" rx="2.063" transform="rotate(100 -8.83 62.94)"/></g></svg>
+<svg xmlns="http://www.w3.org/2000/svg" width="110.476" height="111.688" viewBox="0 0 110.476 111.688">
+  <g id="Group_216" data-name="Group 216" transform="translate(0 0)">
+    <path id="Path_450" data-name="Path 450" d="M19.744,0h0C33.366,0,44.408,10.211,44.408,22.807S40.214,41.554,16.559,45.613h0C2.937,45.613,0,18.724,0,18.724S6.123,0,19.744,0Z" transform="translate(83.078 75.171) rotate(166)" fill="rgba(145,145,145,0.27)"/>
+    <rect id="Rectangle_177" data-name="Rectangle 177" width="26.82" height="4.126" rx="2.063" transform="translate(110.476 55.458) rotate(172)" fill="rgba(145,145,145,0.27)"/>
+    <rect id="Rectangle_172" data-name="Rectangle 172" width="30.258" height="5.501" rx="2.751" transform="translate(30.729 62.274) rotate(172)" fill="rgba(145,145,145,0.27)"/>
+    <rect id="Rectangle_173" data-name="Rectangle 173" width="24.069" height="4.126" rx="2.063" transform="translate(32.156 45.611) rotate(-150)" fill="rgba(145,145,145,0.27)"/>
+    <rect id="Rectangle_178" data-name="Rectangle 178" width="24.069" height="4.126" rx="2.063" transform="matrix(-0.53, -0.848, 0.848, -0.53, 77.478, 104.055)" fill="rgba(145,145,145,0.27)"/>
+    <rect id="Rectangle_176" data-name="Rectangle 176" width="30.258" height="4.126" rx="2.063" transform="translate(65.152 0.717) rotate(100)" fill="rgba(145,145,145,0.27)"/>
+    <rect id="Rectangle_179" data-name="Rectangle 179" width="29.57" height="4.126" rx="2.063" transform="translate(51.621 82.566) rotate(100)" fill="rgba(145,145,145,0.27)"/>
+  </g>
+</svg>

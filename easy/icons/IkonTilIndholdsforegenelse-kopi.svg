@@ -1,1 +1,9 @@
-<svg viewBox="843.491 101.534 70.869 58.329" xmlns="http://www.w3.org/2000/svg"><circle cx="83.24" cy="81.177" r="11.788" style="fill:#fff" transform="matrix(.68667 0 0 .65956 798.713 58.458)"/><rect width="44.514" height="15.117" x="866.572" y="104.131" rx="11.46" ry="11.46" style="fill:#fff"/><circle cx="82.518" cy="109.267" r="11.788" style="fill:#fff" transform="matrix(.68667 0 0 .65956 799.17 57.99)"/><rect width="44.514" height="15.117" x="866.601" y="122.19" rx="11.46" ry="11.46" style="fill:#fff"/><circle cx="81.847" cy="136.529" r="11.788" style="fill:#fff" transform="matrix(.68667 0 0 .65956 799.17 57.99)"/><rect width="44.514" height="15.117" x="866.204" y="140.171" rx="11.46" ry="11.46" style="fill:#fff"/></svg>
+<?xml version="1.0" encoding="utf-8"?>
+<svg viewBox="843.491 101.534 70.869 58.329" xmlns="http://www.w3.org/2000/svg">
+  <circle style="fill: rgb(255, 255, 255);" cx="83.24" cy="81.177" r="11.788" transform="matrix(0.686669, 0, 0, 0.659562, 798.713196, 58.458126)"/>
+  <rect x="866.572" y="104.131" width="44.514" height="15.117" style="fill: rgb(255, 255, 255);" rx="11.46" ry="11.46"/>
+  <circle style="fill: rgb(255, 255, 255);" cx="82.518" cy="109.267" r="11.788" transform="matrix(0.686669, 0, 0, 0.659562, 799.170044, 57.990341)"/>
+  <rect x="866.601" y="122.19" width="44.514" height="15.117" style="fill: rgb(255, 255, 255);" rx="11.46" ry="11.46"/>
+  <circle style="fill: rgb(255, 255, 255);" cx="81.847" cy="136.529" r="11.788" transform="matrix(0.686669, 0, 0, 0.659562, 799.170044, 57.990341)"/>
+  <rect x="866.204" y="140.171" width="44.514" height="15.117" style="fill: rgb(255, 255, 255);" rx="11.46" ry="11.46"/>
+</svg>

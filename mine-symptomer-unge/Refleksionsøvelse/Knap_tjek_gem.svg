@@ -1,1 +1,13 @@
-<svg width="159.748" height="159.748" xmlns="http://www.w3.org/2000/svg"><g data-name="Group 411"><g data-name="Group 253"><circle cx="79.874" cy="79.874" r="79.874" fill="#323f51" data-name="Nuance A4 5d"/></g><g data-name="Group 254"><g fill="#fff" data-name="Group 80"><path d="m62.936 76.088 17.95 28.724c1.081 1.731-.17 3.712-2.796 4.425s-5.63-.113-6.71-1.845L53.429 78.669c-1.078-1.733.17-3.712 2.79-4.424s5.635.112 6.717 1.843Z" data-name="Path 294"/><path d="m72.868 102.868 26.497-46.091c1.596-2.778 5.058-4.537 7.732-3.93s3.546 3.353 1.948 6.13L82.548 105.07c-1.597 2.778-5.059 4.537-7.731 3.929s-3.544-3.356-1.949-6.13Z" data-name="Path 295"/></g></g></g></svg>
+<svg xmlns="http://www.w3.org/2000/svg" width="159.748" height="159.748" viewBox="0 0 159.748 159.748">
+  <g id="Group_411" data-name="Group 411" transform="translate(-2160.074 -1127.008)">
+    <g id="Group_253" data-name="Group 253" transform="translate(2160.074 1127.008)">
+      <circle id="Nuance_A4_5d" data-name="Nuance A4 5d" cx="79.874" cy="79.874" r="79.874" transform="translate(0 0)" fill="#323f51"/>
+    </g>
+    <g id="Group_254" data-name="Group 254" transform="translate(2261.441 1240.961) rotate(180)">
+      <g id="Group_80" data-name="Group 80" transform="translate(0.014 1.854)">
+        <path id="Path_294" data-name="Path 294" d="M4.312,5.694,37.694.039c2.012-.341,3.366,1.57,3.026,4.268s-2.248,5.161-4.26,5.5L3.078,15.464C1.066,15.8-.288,13.894.052,11.2S2.3,6.035,4.312,5.694Z" transform="matrix(-0.381, -0.925, 0.925, -0.381, 34.793, 42.169)" fill="#fff"/>
+        <path id="Path_295" data-name="Path 295" d="M4.975.056,57.724,6.818c3.179.407,6.133,2.928,6.6,5.631s-1.734,4.563-4.913,4.155L6.661,9.842C3.482,9.434.527,6.913.062,4.211S1.8-.351,4.975.056Z" transform="matrix(-0.384, 0.923, -0.923, -0.384, 30.447, 4.661)" fill="#fff"/>
+      </g>
+    </g>
+  </g>
+</svg>

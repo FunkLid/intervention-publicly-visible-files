@@ -1,1 +1,24 @@
-<svg width="162.447" height="162.447" xmlns="http://www.w3.org/2000/svg"><defs><filter id="icon_plus_blue_svg__a" width="162.447" height="162.447" x="0" y="0" filterUnits="userSpaceOnUse"><feOffset dx="5" dy="6"/><feGaussianBlur result="blur" stdDeviation="5"/><feFlood flood-opacity=".384"/><feComposite in2="blur" operator="in"/><feComposite in="SourceGraphic"/></filter></defs><g data-name="Group 1400"><g data-name="Group 1399"><g data-name="Group 207" filter="url(#icon_plus_blue_svg__a)"><circle cx="66.224" cy="66.224" r="66.224" fill="#323f51" data-name="Nuance A4 5d" transform="translate(10 9)"/></g></g><g fill="#fff" data-name="Group 89" transform="translate(50.022 49.023)"><rect width="52.403" height="9.388" data-name="Rectangle 50" rx="4.694" transform="translate(0 21.508)"/><rect width="52.403" height="9.388" data-name="Rectangle 51" rx="4.694" transform="rotate(90 15.447 15.448)"/></g></g></svg>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="162.447" height="162.447" viewBox="0 0 162.447 162.447">
+  <defs>
+    <filter id="Nuance_A4_5d" x="0" y="0" width="162.447" height="162.447" filterUnits="userSpaceOnUse">
+      <feOffset dx="5" dy="6" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="5" result="blur"/>
+      <feFlood flood-opacity="0.384"/>
+      <feComposite operator="in" in2="blur"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+  </defs>
+  <g id="Group_1400" data-name="Group 1400" transform="translate(12820.926 -18219.52)">
+    <g id="Group_1399" data-name="Group 1399" transform="translate(-15547 16737.461)">
+      <g id="Group_207" data-name="Group 207" transform="translate(2736.074 1491.059)">
+        <g transform="matrix(1, 0, 0, 1, -10, -9)" filter="url(#Nuance_A4_5d)">
+          <circle id="Nuance_A4_5d-2" data-name="Nuance A4 5d" cx="66.224" cy="66.224" r="66.224" transform="translate(10 9)" fill="#323f51"/>
+        </g>
+      </g>
+    </g>
+    <g id="Group_89" data-name="Group 89" transform="translate(-12770.904 18268.543)">
+      <rect id="Rectangle_50" data-name="Rectangle 50" width="52.403" height="9.388" rx="4.694" transform="translate(0 21.508)" fill="#fff"/>
+      <rect id="Rectangle_51" data-name="Rectangle 51" width="52.403" height="9.388" rx="4.694" transform="translate(30.895 0) rotate(90)" fill="#fff"/>
+    </g>
+  </g>
+</svg>
