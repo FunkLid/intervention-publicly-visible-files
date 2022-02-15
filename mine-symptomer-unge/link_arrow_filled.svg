@@ -1,1 +1,90 @@
-<svg width="159.748" height="159.748" xmlns="http://www.w3.org/2000/svg"><g data-name="Group 1181"><g data-name="Group 1176"><circle cx="79.874" cy="79.874" r="79.874" fill="#323f51" data-name="Nuance A4 5d" style="fill:#e5951c;fill-opacity:1"/></g><g data-name="Group 1177"><g fill="#fff" data-name="Group 80"><path d="m64.543 96.998 32.492-17.516c1.959-1.056 4.2.166 5.006 2.728s-.128 5.495-2.086 6.55l-32.492 17.517c-1.957 1.055-4.2-.166-5.006-2.727s.128-5.496 2.086-6.552Z" data-name="Path 294"/><path d="M96.775 88.114 64.36 70.46c-1.954-1.064-2.879-3.998-2.066-6.556s3.055-3.767 5.008-2.703l32.415 17.652c1.954 1.063 2.879 4 2.067 6.555s-3.059 3.766-5.01 2.705Z" data-name="Path 295"/></g></g></g></svg>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="159.748"
+   height="159.748"
+   viewBox="0 0 159.748 159.748"
+   version="1.1"
+   id="svg9"
+   sodipodi:docname="link_arrow_filled.svg"
+   inkscape:version="1.0.2 (e86c870879, 2021-01-15)">
+  <metadata
+     id="metadata15">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs13" />
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1500"
+     inkscape:window-height="1008"
+     id="namedview11"
+     showgrid="false"
+     inkscape:zoom="2.3769708"
+     inkscape:cx="29.118754"
+     inkscape:cy="67.964835"
+     inkscape:window-x="3274"
+     inkscape:window-y="46"
+     inkscape:window-maximized="0"
+     inkscape:current-layer="Group_1176" />
+  <g
+     id="Group_1181"
+     data-name="Group 1181"
+     transform="translate(-1947.074 -2935.008)">
+    <g
+       id="Group_1176"
+       data-name="Group 1176"
+       transform="translate(1947.074 2935.008)">
+      <circle
+         id="Nuance_A4_5d"
+         data-name="Nuance A4 5d"
+         cx="79.874001"
+         cy="79.874001"
+         fill="#323f51"
+         style="fill:#e5951c;fill-opacity:1"
+         r="79.874001" />
+    </g>
+    <g
+       id="Group_1177"
+       data-name="Group 1177"
+       transform="translate(2051.436 2994.497) rotate(90)">
+      <g
+         id="Group_80"
+         data-name="Group 80"
+         transform="translate(0.296 -1.146)">
+        <path
+           id="Path_294"
+           data-name="Path 294"
+           d="M4.444,3.838l36.7-3.82c2.212-.23,3.818,1.752,3.588,4.427s-2.21,5.031-4.422,5.261l-36.7,3.82C1.4,13.756-.208,11.774.022,9.1S2.232,4.068,4.444,3.838Z"
+           transform="matrix(-0.381, -0.925, 0.925, -0.381, 35.356, 46.538)"
+           fill="#fff" />
+        <path
+           id="Path_295"
+           data-name="Path 295"
+           d="M3.609.018l36.72,3.848c2.213.232,4.195,2.587,4.427,5.261s-1.374,4.653-3.587,4.421L4.449,9.7C2.236,9.469.254,7.113.022,4.44S1.4-.213,3.609.018Z"
+           transform="matrix(-0.384, 0.923, -0.923, -0.384, 29.731, 5.409)"
+           fill="#fff" />
+      </g>
+    </g>
+  </g>
+</svg>

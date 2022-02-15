@@ -1,1 +1,18 @@
-<svg width="48" height="56" xmlns="http://www.w3.org/2000/svg"><g data-name="Group 364"><g fill="none" stroke="#fcfcfc" stroke-width="3" data-name="Ellipse 51" transform="translate(0 22)"><ellipse cx="11" cy="10.5" stroke="none" rx="11" ry="10.5"/><ellipse cx="11" cy="10.5" rx="9.5" ry="9"/></g><g fill="none" stroke="#fcfcfc" stroke-width="3" data-name="Ellipse 53" transform="translate(26 35)"><ellipse cx="11" cy="10.5" stroke="none" rx="11" ry="10.5"/><ellipse cx="11" cy="10.5" rx="9.5" ry="9"/></g><g fill="none" stroke="#fcfcfc" stroke-width="3" data-name="Ellipse 52" transform="translate(22)"><ellipse cx="10.5" cy="11" stroke="none" rx="10.5" ry="11"/><ellipse cx="10.5" cy="11" rx="9" ry="9.5"/></g><path fill="#fff" d="m16.146 24.767 8.092-7.822 2.407 2.49-8.092 7.822z" data-name="Rectangle 233"/><path fill="#fff" d="m18.829 35.395 10.118 4.93-1.517 3.113-10.118-4.93z" data-name="Rectangle 234"/></g></svg>
+<svg xmlns="http://www.w3.org/2000/svg" width="48" height="56" viewBox="0 0 48 56">
+  <g id="Group_364" data-name="Group 364" transform="translate(-36 -292)">
+    <g id="Ellipse_51" data-name="Ellipse 51" transform="translate(36 314)" fill="none" stroke="#fcfcfc" stroke-width="3">
+      <ellipse cx="11" cy="10.5" rx="11" ry="10.5" stroke="none"/>
+      <ellipse cx="11" cy="10.5" rx="9.5" ry="9" fill="none"/>
+    </g>
+    <g id="Ellipse_53" data-name="Ellipse 53" transform="translate(62 327)" fill="none" stroke="#fcfcfc" stroke-width="3">
+      <ellipse cx="11" cy="10.5" rx="11" ry="10.5" stroke="none"/>
+      <ellipse cx="11" cy="10.5" rx="9.5" ry="9" fill="none"/>
+    </g>
+    <g id="Ellipse_52" data-name="Ellipse 52" transform="translate(58 292)" fill="none" stroke="#fcfcfc" stroke-width="3">
+      <ellipse cx="10.5" cy="11" rx="10.5" ry="11" stroke="none"/>
+      <ellipse cx="10.5" cy="11" rx="9" ry="9.5" fill="none"/>
+    </g>
+    <rect id="Rectangle_233" data-name="Rectangle 233" width="11.255" height="3.463" transform="matrix(0.719, -0.695, 0.695, 0.719, 52.146, 316.767)" fill="#fff"/>
+    <rect id="Rectangle_234" data-name="Rectangle 234" width="11.255" height="3.463" transform="matrix(0.899, 0.438, -0.438, 0.899, 54.829, 327.395)" fill="#fff"/>
+  </g>
+</svg>

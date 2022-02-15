@@ -1,1 +1,12 @@
-<svg width="121.765" height="121.765" xmlns="http://www.w3.org/2000/svg"><g data-name="Group 454"><g data-name="Group 446" transform="translate(-2179.503 -731.584)"><ellipse cx="60.883" cy="60.882" fill="#efdc74" data-name="Nuance A4 5b" rx="60.883" ry="60.882" transform="translate(2179.503 731.584)"/></g><g fill="none" stroke="#7b6e2a" stroke-linecap="round" stroke-linejoin="round" stroke-width="3" data-name="Group 448"><path d="M75.67 46.813c.065 6.578 21.26 6.373 21.2-.206" data-name="Path 200"/><path d="M41.588 46.813c.065 6.578 21.258 6.373 21.194-.206" data-name="Path 201"/><path d="M45.903 80.499c13.043 1.637 23.048 5.121 30.361 0" data-name="Path 202"/></g></g></svg>
+<svg xmlns="http://www.w3.org/2000/svg" width="121.765" height="121.765" viewBox="0 0 121.765 121.765">
+  <g id="Group_454" data-name="Group 454" transform="translate(-337.187 -1161.653)">
+    <g id="Group_446" data-name="Group 446" transform="translate(-1842.316 430.069)">
+      <ellipse id="Nuance_A4_5b" data-name="Nuance A4 5b" cx="60.883" cy="60.882" rx="60.883" ry="60.882" transform="translate(2179.503 731.584)" fill="#efdc74"/>
+    </g>
+    <g id="Group_448" data-name="Group 448" transform="translate(337.973 1162.482)">
+      <path id="Path_200" data-name="Path 200" d="M0,.206C.065,6.784,21.26,6.579,21.2,0" transform="translate(74.884 45.778)" fill="none" stroke="#7b6e2a" stroke-linecap="round" stroke-linejoin="round" stroke-width="3"/>
+      <path id="Path_201" data-name="Path 201" d="M0,.206C.065,6.784,21.258,6.579,21.194,0" transform="translate(40.802 45.778)" fill="none" stroke="#7b6e2a" stroke-linecap="round" stroke-linejoin="round" stroke-width="3"/>
+      <path id="Path_202" data-name="Path 202" d="M86.618,126.518c13.043,1.637,23.048,5.121,30.361,0" transform="translate(-41.501 -46.848)" fill="none" stroke="#7b6e2a" stroke-linecap="round" stroke-linejoin="round" stroke-width="3"/>
+    </g>
+  </g>
+</svg>
