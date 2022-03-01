@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   version="1.1"
+   id="svg2"
+   width="273.27783"
+   height="217.94302"
+   viewBox="0 0 273.27783 217.94302"
+   sodipodi:docname="frygt_undgaaelse.svg"
+   inkscape:version="1.1.2 (0a00cf5339, 2022-02-04)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview6"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     showgrid="false"
+     fit-margin-top="0"
+     fit-margin-left="0"
+     fit-margin-right="0"
+     fit-margin-bottom="0"
+     inkscape:zoom="3.6628294"
+     inkscape:cx="128.04309"
+     inkscape:cy="92.141885"
+     inkscape:window-width="1404"
+     inkscape:window-height="1717"
+     inkscape:window-x="1450"
+     inkscape:window-y="57"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg2" />
+  <defs
+     id="defs6" />
+  <text
+     xml:space="preserve"
+     style="font-style:normal;font-weight:normal;font-size:40px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
+     x="101.33527"
+     y="25.639999"
+     id="text1521"><tspan
+       sodipodi:role="line"
+       id="tspan1519"
+       x="101.33527"
+       y="25.639999"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:40px;font-family:'Alegreya Sans';-inkscape-font-specification:'Alegreya Sans, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal">Frygt</tspan></text>
+  <text
+     xml:space="preserve"
+     style="font-style:normal;font-weight:normal;font-size:40px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
+     x="54.916542"
+     y="210.22302"
+     id="text1521-7"><tspan
+       sodipodi:role="line"
+       id="tspan1519-7"
+       x="54.916542"
+       y="210.22302"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:40px;font-family:'Alegreya Sans';-inkscape-font-specification:'Alegreya Sans, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal">Undgåelse</tspan></text>
+  <g
+     id="g4096-1"
+     transform="matrix(-0.64635417,0.30664145,-0.30520153,-0.64677056,136.52897,130.12772)"
+     style="stroke:#ff4545;stroke-width:1.39805;stroke-opacity:1">
+    <path
+       d="m 117.6181,0.75 c 29.1892,22.5057 52.2027,58.5988 45.0558,94.7572 -5.1187,25.8978 -25.2063,47.1531 -49.002,58.5837 -23.7957,11.4306 -50.921,14.1185 -77.3019,13.1585"
+       fill="none"
+       stroke="#000000"
+       stroke-linecap="round"
+       stroke-linejoin="round"
+       stroke-width="2.09707"
+       id="path4084-2"
+       style="stroke:#ff4545;stroke-opacity:1" />
+    <path
+       d="M 37.2685,135.4049 5.6711,159.5462 c -2.482,1.8963 -5.231,4.3756 -4.8927,7.4807 0.2448,2.2474 2.066,3.9554 3.7974,5.4089 A 164.424,164.424 0 0 0 45.74,197.7126"
+       fill="none"
+       stroke="#000000"
+       stroke-linecap="round"
+       stroke-linejoin="round"
+       stroke-width="2.09707"
+       id="path4086-8"
+       style="stroke:#ff4545;stroke-opacity:1" />
+  </g>
+  <g
+     id="g4096-1-9"
+     transform="matrix(0.53096402,-0.47945793,0.47819841,0.53177666,133.15536,81.380279)"
+     style="stroke:#ff4545;stroke-width:1.39805;stroke-opacity:1">
+    <path
+       d="m 117.6181,0.75 c 29.1892,22.5057 52.2027,58.5988 45.0558,94.7572 -5.1187,25.8978 -25.2063,47.1531 -49.002,58.5837 -23.7957,11.4306 -50.921,14.1185 -77.3019,13.1585"
+       fill="none"
+       stroke="#000000"
+       stroke-linecap="round"
+       stroke-linejoin="round"
+       stroke-width="2.09707"
+       id="path4084-2-3"
+       style="stroke:#ff4545;stroke-opacity:1" />
+    <path
+       d="M 37.2685,135.4049 5.6711,159.5462 c -2.482,1.8963 -5.231,4.3756 -4.8927,7.4807 0.2448,2.2474 2.066,3.9554 3.7974,5.4089 A 164.424,164.424 0 0 0 45.74,197.7126"
+       fill="none"
+       stroke="#000000"
+       stroke-linecap="round"
+       stroke-linejoin="round"
+       stroke-width="2.09707"
+       id="path4086-8-6"
+       style="stroke:#ff4545;stroke-opacity:1" />
+  </g>
+</svg>
